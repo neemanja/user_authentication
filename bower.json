@@ -1,0 +1,24 @@
+{
+  "name": "user_authentication",
+  "authors": [
+    "Nemanja <nemanja.stokuca@gmail.com>"
+  ],
+  "description": "user login/register",
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "vendors"
+  ],
+  "dependencies": {
+    "angular-ui-router": "^1.0.15",
+    "bootstrap": "boostrap#3.3.7",
+    "AngularJS-Toaster": "toaster#^2.2.0"
+  }
+}

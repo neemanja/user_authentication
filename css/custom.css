@@ -1,0 +1,13 @@
+body{
+	padding-top: 51px;
+}
+
+.breadcrumbs {
+    position: relative;
+    border-bottom: 1px solid #E5E5E5;
+    background-color: #F5F5F5;
+}
+
+.breadcrumb{
+    margin-bottom: 0;
+}
